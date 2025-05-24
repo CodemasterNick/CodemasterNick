@@ -1,5 +1,5 @@
  ### 👋 Hi, My name is Nicolas Silva, I'm 16 years old, I'm a student on a technical course
-### 👀 I’m interested in learn PHP
+### 👀 I’m interested in learn PHP and Java
 
 ### Skills: 
 <div style="display: inline_block">
